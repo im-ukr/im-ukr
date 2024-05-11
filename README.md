@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0891b2&size=29&multiline=true&width=700&lines=im-ukr77)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0891b2&size=29&multiline=true&width=700&lines=im-ukr)](https://git.io/typing-svg)
 
 
 <a href="https://github.com/im-ukr"><img src="https://github-readme-stats.vercel.app/api?username=im-ukr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="im-ukr's GitHub stats" /></a>
