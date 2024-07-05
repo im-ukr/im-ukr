@@ -3,10 +3,10 @@
 
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/im-ukr" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=im-ukr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="im-ukr's GitHub stats" style="width: 40%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=im-ukr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="im-ukr's GitHub stats" style="width: 100%; height: 50%;" />
   </a>
   <a href="https://github.com/im-ukr" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ukr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="width: 60%; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ukr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="width: 100%; height: 50%;" />
   </a>
 </div>
 
