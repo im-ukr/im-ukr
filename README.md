@@ -4,17 +4,16 @@
   <tr>
     <td>
       <a href="https://github.com/im-ukr">
-        <img src="https://github-readme-stats.vercel.app/api?username=im-ukr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true" alt="im-ukr's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=im-ukr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="im-ukr's GitHub stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/im-ukr">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=im-ukr" alt="GitHub Streak Stats" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=im-ukr&theme=dark&background=1C1917&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=0891b2&fire=0891b2&stroke=0891b2" alt="GitHub Streak Stats" />
       </a>
     </td>
   </tr>
 </table>
-
 
 <h1 align="center">GitHub Contributions Graph</h1>
 
