@@ -9,11 +9,12 @@
     </td>
     <td>
       <a href="https://github.com/im-ukr">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ukr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=im-ukr" alt="GitHub Streak Stats" />
       </a>
     </td>
   </tr>
 </table>
+
 
 <h1 align="center">GitHub Contributions Graph</h1>
 
